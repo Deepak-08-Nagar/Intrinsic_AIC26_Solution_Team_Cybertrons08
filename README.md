@@ -243,9 +243,7 @@ Built an **end-to-end cable manipulation pipeline** in Intrinsic Flowstate:
 - Used **Intrinsic Vision Model** for vision-based scene/object understanding.
 - Integrated our custom **NIC-port detection, pose alignment, visual servoing, and insertion policy** into the Flowstate workflow.
 
-### Result
-
-**21st Place · 203/300**
+### Result: **21st Place**
 
 
 ---
@@ -257,9 +255,8 @@ Built an **end-to-end cable manipulation pipeline** in Intrinsic Flowstate:
 | Competition | Intrinsic AI for Industry Challenge 2026 |
 | Team | Cybertrons08 |
 | Robot | UR5e |
-| Phase 1 Placement | **21st Place** |
-| Phase 1 Score | **203/300** |
-| Overall Global Rank | **26** |
+| Phase 1 Rank | **21st Place** |
+| Qualification Phase Rank | **26th Place** |
 
 ---
 
