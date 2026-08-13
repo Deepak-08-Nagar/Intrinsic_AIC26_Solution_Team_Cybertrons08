@@ -16,7 +16,7 @@
 
 ## 1. Problem Statement
 
-The Intrinsic AI for Industry Challenge 2026 required an autonomous **UR5e robotic system** to identify a specified NIC port and insert a cable into the correct port using camera observations.
+The AI for Industry Challenge 2026 by Intrinsic required an autonomous **UR5e robotic system** to identify a specified NIC port and insert a cable into the correct port.
 
 The solution had to operate across randomized task configurations and perform the complete pipeline from **visual perception to precise cable insertion**.
 
@@ -56,7 +56,7 @@ YOLO-OBB Perception
 
 ### Core Techniques
 
-- **YOLO-OBB** for NIC/port and cable perception
+- **YOLO-OBB** for NIC/port and cable detection
 - **Spatial & geometric reasoning** for rail and target identification
 - **Temporal tracking + virtual target estimation** for port occlusion
 - **Image-based pose correction** for yaw/rail alignment
@@ -70,13 +70,10 @@ YOLO-OBB Perception
 
 ## 3. Demo Video
 
+
 ### Autonomous Cable Insertion Pipeline
 
-<div align="center">
-  <video src="https://raw.githubusercontent.com/Deepak-08-Nagar/Intrinsic_AIC26_Solution_Team_Cybertrons08/main/AIC-Intrinsic_Demo_Video.mp4" controls="controls" width="100%" style="max-width: 800px; border-radius: 8px;"></video>
-  <br>
-  <a href="https://github.com/Deepak-08-Nagar/Intrinsic_AIC26_Solution_Team_Cybertrons08/blob/main/AIC-Intrinsic_Demo_Video.mp4"><strong>🎬 Click here to Watch / Download Full Demo Video (AIC-Intrinsic_Demo_Video.mp4)</strong></a>
-</div>
+[output.webm](https://github.com/user-attachments/assets/36de24fc-e80d-4064-8f24-c4612261eed0)
 
 > **Pipeline:** `Detection → Rail Identification → Target Port → Pose Alignment → Visual Servoing → Insertion`
 
