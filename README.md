@@ -18,7 +18,7 @@
 
 The Intrinsic AI for Industry Challenge 2026 required an autonomous **UR5e robotic system** to identify a specified NIC port and insert a cable into the correct port using camera observations.
 
-The solution had to operate across randomized task configurations and perform the complete pipeline from **visual perception to precise robotic insertion**.
+The solution had to operate across randomized task configurations and perform the complete pipeline from **visual perception to precise cable insertion**.
 
 ---
 
