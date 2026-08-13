@@ -89,7 +89,7 @@ YOLO-OBB Perception
 
 #### Perception
 
-We used **YOLO with Oriented Bounding Boxes (OBB)** to detect the NIC ports and obtain their geometric information.
+We used **YOLO with Oriented Bounding Boxes (OBB)** to detect the NIC Ports and obtain their geometric information.
 
 OBB detection provides:
 - Port center
@@ -233,20 +233,20 @@ This produces a closed-loop insertion process rather than relying on a fixed pre
 
 ## 5. Flowstate — Phase 1
 
-The policy was developed and evaluated using **Intrinsic Flowstate** during Phase 1.
 
-### Experience
+Built an **end-to-end cable manipulation pipeline** in Intrinsic Flowstate:
 
-- Simulation-based robotic policy development
-- Camera observation and robot-state integration
-- Vision-to-control pipeline development
-- Real-time debugging and policy iteration
-- Robotic manipulation in a randomized environment
+**Cable Detection → Pose Estimation → Grasping → Pickup → Manipulation → NIC Target Identification → Cable Insertion**
+
+- Used **Flowstate Skills & Services** to compose and execute the manipulation workflow.
+- Integrated **camera observations, robot state, task state, and skill execution**.
+- Used **Intrinsic Vision Model** for vision-based scene/object understanding.
+- Integrated our custom **NIC-port detection, pose alignment, visual servoing, and insertion policy** into the Flowstate workflow.
 
 ### Result
 
-- **Phase 1 Placement:** 21st Place
-- **Phase 1 Score:** 203/300
+**21st Place · 203/300**
+
 
 ---
 
