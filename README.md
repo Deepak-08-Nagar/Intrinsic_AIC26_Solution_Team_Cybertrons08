@@ -2,12 +2,12 @@
 
 ### Team Cybertrons08 · UR5e · Computer Vision · Visual Servoing
 
-![ROS 2](https://img.shields.io/badge/ROS_2-Humble-blue?style=flat&logo=ros)
+![ROS 2](https://img.shields.io/badge/ROS_2-Kilted-blue?style=flat&logo=ros)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Perception-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO-OBB](https://img.shields.io/badge/YOLO-OBB_Detection-00FFFF?style=flat)
 ![UR5e](https://img.shields.io/badge/Robot-UR5e-0052CC?style=flat)
-![Intrinsic](https://img.shields.io/badge/Environment-Intrinsic_Flowstate-FF4500?style=flat)
+![Gazebo](https://img.shields.io/badge/Environment-Gazebo-FF4500?style=flat)
 
 **Global Rank: 21 · Phase 1**  
 **Global Rank: 26 · Qualification Phase · Score: 203/300**
