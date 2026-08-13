@@ -73,7 +73,9 @@ YOLO-OBB Perception
 ### Autonomous Cable Insertion Pipeline
 
 <div align="center">
-  <video src="AIC-Intrinsic_Demo_Video.mp4" controls="controls" width="100%" style="max-width: 800px; border-radius: 8px;"></video>
+  <video src="https://raw.githubusercontent.com/Deepak-08-Nagar/Intrinsic_AIC26_Solution_Team_Cybertrons08/main/AIC-Intrinsic_Demo_Video.mp4" controls="controls" width="100%" style="max-width: 800px; border-radius: 8px;"></video>
+  <br>
+  <a href="https://github.com/Deepak-08-Nagar/Intrinsic_AIC26_Solution_Team_Cybertrons08/blob/main/AIC-Intrinsic_Demo_Video.mp4"><strong>🎬 Click here to Watch / Download Full Demo Video (AIC-Intrinsic_Demo_Video.mp4)</strong></a>
 </div>
 
 > **Pipeline:** `Detection → Rail Identification → Target Port → Pose Alignment → Visual Servoing → Insertion`
