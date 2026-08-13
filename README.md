@@ -54,6 +54,20 @@ YOLO-OBB Perception
  Coordinated Cable Insertion
 ```
 
+
+
+---
+
+## 3. Demo Video
+
+
+### Autonomous Cable Insertion Pipeline
+
+[output.webm](https://github.com/user-attachments/assets/36de24fc-e80d-4064-8f24-c4612261eed0)
+
+> **Pipeline:** `Detection → Rail Identification → Target Port → Pose Alignment → Visual Servoing → Insertion`
+
+
 ### Core Techniques
 
 - **YOLO-OBB** for NIC/port and cable detection
@@ -66,16 +80,6 @@ YOLO-OBB Perception
 **Robot:** UR5e  
 **Environment:** Gazebo (Qualification Phase) · Intrinsic Flowstate (Phase 1)  
 
----
-
-## 3. Demo Video
-
-
-### Autonomous Cable Insertion Pipeline
-
-[output.webm](https://github.com/user-attachments/assets/36de24fc-e80d-4064-8f24-c4612261eed0)
-
-> **Pipeline:** `Detection → Rail Identification → Target Port → Pose Alignment → Visual Servoing → Insertion`
 
 ---
 
