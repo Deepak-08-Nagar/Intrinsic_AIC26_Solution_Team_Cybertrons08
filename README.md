@@ -266,7 +266,7 @@ Built an **end-to-end cable manipulation pipeline** in Intrinsic Flowstate:
 `ROS 2` · `UR5e` · `Cartesian Control` · `Joint Control` · `Visual Servoing`
 
 ### Computer Vision
-`Python` · `OpenCV` · `YOLO` · `YOLO-OBB` · `HSV Segmentation` · `Geometric Vision`
+`Python` · `OpenCV` · `YOLO` · `YOLO-OBB` · `HSV Segmentation` · `Geometric Vision` · `Homography`
 
 ### Estimation & Control
 `Temporal Tracking` · `Geometric Reasoning` · `Proportional Control` · `Target Prediction`
@@ -281,7 +281,6 @@ Built an **end-to-end cable manipulation pipeline** in Intrinsic Flowstate:
 My primary contribution to **Team Cybertrons08** focused on the vision-driven manipulation pipeline:
 
 - YOLO-based perception
-- Rail identification and tracking
 - Target-port selection
 - Occlusion-aware target prediction
 - Geometric pose estimation
